@@ -3,8 +3,9 @@ name: trust-building-assessment
 description: Diagnose whether leadership is building trust through inspiration or undermining it through manipulation, and recommend changes for lasting loyalty.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5233
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - transformation
