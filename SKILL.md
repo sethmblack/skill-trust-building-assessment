@@ -4,7 +4,7 @@ description: Diagnose whether leadership is building trust through inspiration o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5233
+  version: 1.0.5234
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
